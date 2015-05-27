@@ -1,0 +1,25 @@
+h1 {
+  font-size: 1.875em
+}
+h2 {
+  font-size: 1.875em
+}
+h3 {
+  font-size: 1.875em
+}
+h4 {
+  font-size: 1.875em
+}
+h5 {
+  font-size: 1.875em
+}
+h6 {
+  font-size: 1.875em
+}
+body {
+  background-image: url('http://php.quicoto.com/wp-content/uploads/2013/06/css3.jpg');
+  background-repeat:no-repeat;
+  background-size: 30%;
+  background-color: #00BFFF;
+  background-position: top right;
+}

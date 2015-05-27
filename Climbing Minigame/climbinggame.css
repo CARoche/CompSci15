@@ -1,0 +1,35 @@
+/*
+    Document   : Jumpgame
+    Created on : 2015-02-25 06:36 PM
+    Author     : CRoche
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+.platform {
+    border-style: solid;
+    border-width: 3px;
+}
+.
+
+#rectangle {
+    width: 200px
+    height: 100px
+    background: red;
+    position: absolute
+    left: -20px
+    top: 300px
+}
+
+#rectangle {
+    width: 200px
+    height: 100px
+    background: red;
+    position: absolute
+    left: 200px
+    top: 400px
+}

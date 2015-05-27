@@ -1,0 +1,17 @@
+
+h1 {
+  color: White;
+}
+h2 {
+  color: #33FF00;
+}
+body {
+    background-image: url('http://upload.wikimedia.org/wikipedia/commons/f/f1/Golden_Gate_Bridge,_SF.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #404040;
+}
+
+h3 {
+  color: #33FF00;
+
